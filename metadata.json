@@ -1,0 +1,5 @@
+{
+  "name": "Gen Quality AI",
+  "description": "A comprehensive dashboard for managing, analyzing, and predicting boar gamete quality (Gen) with an integrated R model engine.",
+  "requestFramePermissions": []
+}
